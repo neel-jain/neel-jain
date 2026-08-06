@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nj3054@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/neel-jain/neel-jain/raw/main/Neel Jain Resume.pdf](https://github.com/neel-jain/neel-jain/raw/main/Neel Jain Resume.pdf)
+- 📄 Know about my experiences https://github.com/neel-jain/neel-jain/raw/main/resume.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
