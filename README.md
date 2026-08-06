@@ -9,6 +9,12 @@ I'm an Electrical engineer with 5 years of experience designing PCB assemblies, 
 
 🌱 I’m currently learning **Signal Integrity, EMI/EMC, and PCB Design**
 
+🌱 **I'm currently learning:**
+
+![Signal Integrity](https://img.shields.io/badge/Signal_Integrity-blue?style=flat-square)
+![EMI/EMC](https://img.shields.io/badge/EMI%2FEMC-green?style=flat-square)
+![PCB Design](https://img.shields.io/badge/PCB_Design-orange?style=flat-square)
+
 📫 [nj3054@gmail.com](mailto:nj3054@gmail.com)
 
 📄 [Resume](https://github.com/neel-jain/neel-jain/raw/main/resume.pdf)
