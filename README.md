@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neel Jain</h1>
 <h3 align="center">An Electrical Engineer currently working in Fremont, CA and a Graduate student at Purdue University</h3>
 
+- 🌱 I’m currently learning **Signal Integrity, EMI/EMC, and PCB Design**
+
+- 📫 How to reach me **nj3054@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/neel-jain/neel-jain/raw/main/Neel Jain Resume.pdf](https://github.com/neel-jain/neel-jain/raw/main/Neel Jain Resume.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
