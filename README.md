@@ -3,6 +3,11 @@
 <h3 style="margin: 0;">Graduate student at Purdue University</h3>
 <p align="left"></p>
 
+<p align="center">
+  <b>Electrical Engineer</b><br>
+  Learning Signal Integrity & EMI/EMC
+</p>
+
 I'm an Electrical engineer with 5 years of experience designing PCB assemblies, cable harnesses, and test instrumentation for semiconductor capital equipment and avionics systems. I'm skilled in full system electrical design and validation, from schematic capture through bring-up and test. I'm also studying for my Master of Business Administration, expected May 2028! I'm passionate about all facets of electronic design, from circuits to cables and everything surrounding them!
 
 🌱 I’m currently learning **Signal Integrity, EMI/EMC, and PCB Design**
