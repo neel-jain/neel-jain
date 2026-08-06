@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neel Jain</h1>
-<h3 align="center">Electrical Engineer currently working in Fremont, CA</h3>
-<h3 align="center">Graduate student at Purdue University</h3>
+<h3 align="center" style="margin: 0;">Electrical Engineer currently working in Fremont, CA</h3>
+<h3 align="center" style="margin: 0;">Graduate student at Purdue University</h3>
 <p align="left"></p>
 
 I'm an Electrical engineer with 5 years of experience designing PCB assemblies, cable harnesses, and test instrumentation for semiconductor capital equipment and avionics systems. I'm skilled in full system electrical design and validation, from schematic capture through bring-up and test. I'm passionate about building and fixing computer keyboards, and playing the bass!
