@@ -1,4 +1,4 @@
-# Hi 👋, I'm ___
+# Hi 👋, I'm Neel!
 
 **Electrical Engineer** at Lam Research  
 **Graduate Student** at Purdue University
