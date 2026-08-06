@@ -5,11 +5,11 @@
 
 I'm an Electrical engineer with 5 years of experience designing PCB assemblies, cable harnesses, and test instrumentation for semiconductor capital equipment and avionics systems. I'm skilled in full system electrical design and validation, from schematic capture through bring-up and test. I'm also studying for my Master of Business Administration, expected May 2028! I'm passionate about all facets of electronic design, from circuits to cables and everything surrounding them!
 
-- 🌱 I’m currently learning **Signal Integrity, EMI/EMC, and PCB Design**
+🌱 I’m currently learning **Signal Integrity, EMI/EMC, and PCB Design**
 
-- 📫 [nj3054@gmail.com](mailto:nj3054@gmail.com)
+📫 [nj3054@gmail.com](mailto:nj3054@gmail.com)
 
-- 📄 [Resume](https://github.com/neel-jain/neel-jain/raw/main/resume.pdf)
+📄 [Resume](https://github.com/neel-jain/neel-jain/raw/main/resume.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
