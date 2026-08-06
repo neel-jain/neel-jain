@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Neel Jain</h1>
 
 <p align="Left">
-  <b>Electrical Engineer at Lam Research</b><br>
-  <b>Graduate Student at Purdue University</b>
+  <b>Electrical Engineer</b> at Lam Research<br>
+  <b>Graduate Student</b> at Purdue University
 </p>
 
 I'm an Electrical engineer with 5 years of experience designing PCB assemblies, cable harnesses, and test instrumentation for semiconductor capital equipment and avionics systems. I'm skilled in full system electrical design and validation, from schematic capture through bring-up and test. I'm also studying for my Master of Business Administration, expected May 2028! I'm passionate about all facets of electronic design, from circuits to cables and everything surrounding them!
