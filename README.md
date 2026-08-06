@@ -7,7 +7,7 @@ I'm an Electrical engineer with 5 years of experience designing PCB assemblies, 
 
 - 🌱 I’m currently learning **Signal Integrity, EMI/EMC, and PCB Design**
 
-- 📫 [Email](nj3054@gmail.com)
+- 📫 [nj3054@gmail.com](nj3054@gmail.com)
 
 - 📄 [Resume](https://github.com/neel-jain/neel-jain/raw/main/resume.pdf)
 
