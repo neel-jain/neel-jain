@@ -2,7 +2,7 @@
 <p align="left"> <img src="./banner.png" width="100%"> </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-181717?style=for-the-badge&logo=github&logoColor=white)](https://neel-jain.github.io)
-[![Resume](https://img.shields.io/badge/Resume-View-Green?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/neel-jain/neel-jain/raw/main/resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-Green?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/neel-jain/neel-jain/raw/main/Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neel-jain-18590a184/)
 
 ## About Me
