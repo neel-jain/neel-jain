@@ -5,8 +5,10 @@
 
 nj3054@gmail.com  |  jain1018@purdue.edu
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-181717?style=for-the-badge&logo=github&logoColor=white)](https://neel-jain.github.io)
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/neel-jain/neel-jain/raw/main/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neel-jain-18590a184/)
+
 
 I'm an Electrical engineer with 5 years of experience designing PCB assemblies, cable harnesses, and test instrumentation for semiconductor capital equipment and avionics systems. I'm skilled in full system electrical design and validation, from schematic capture through bring-up and test. I'm also studying for my Master of Business Administration, expected May 2028! I'm passionate about all facets of electronic design, from circuits to cables and everything surrounding them!
 
