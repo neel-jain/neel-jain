@@ -1,7 +1,5 @@
 # Hi 👋, I'm Neel!
-
-**Electrical Engineer** at Lam Research  
-**Graduate Student** at Purdue University
+<p align="left"> <img src="./banner.png" width="100%"> </p>
 
 nj3054@gmail.com  |  jain1018@purdue.edu
 
