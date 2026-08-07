@@ -49,7 +49,7 @@ I'm an Electrical engineer with 5 years of experience designing PCB assemblies, 
 ## 🚀 Projects
 
 ### Streamlit Dashboard for Customer Retention 
-[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/neel-jain-purdue/MGMT-59000-customer-retention-dashboard)<br>
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/neel-jain/MGMT-59000-customer-retention-dashboard)<br>
 Dashboard for business insights into customer retention and growth. Used dataset from case study to provide insights based on customer location, products purchased, and segmented buying habits.
 
 **Skills:** Streamlit · Python · Data Analysis
@@ -57,7 +57,7 @@ Dashboard for business insights into customer retention and growth. Used dataset
 ---
 
 ### Airbnb Price Analysis
-[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://colab.research.google.com/drive/18wVlMYCY1PobwRDwdNChhjMMlxNmPuRZ)<br>
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/neel-jain/MGMT-59000-Airbnb-Price-Analysis)<br>
 Dashboard for analysis of Airbnb rental opportunities in New York. Used to identify rental arbitrage opportunities. Gradio interface hosted in Google Colab.
 
 **Skills:** Supervised Learning · Gradio · Google Colab
@@ -65,7 +65,7 @@ Dashboard for analysis of Airbnb rental opportunities in New York. Used to ident
 ---
 
 ### Employee Attrition Analysis
-[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://huggingface.co/spaces/neel-jain-purdue/IBM-case-3)<br>
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/neel-jain/MGMT-59000-Employee-Attrition-Analysis)<br>
 Dashboard for analysis of Employee attrition at IBM. K-Means Segmentation based on factors such as age, career length, and job function. Gradio interface hosted on HuggingFace
 
 **Skills:** K-Means Segmentation · Gradio · Hugging Face
