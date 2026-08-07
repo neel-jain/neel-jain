@@ -1,16 +1,15 @@
-# Hi 👋, I'm Neel!
+# Hi, I'm Neel!
 <p align="left"> <img src="./banner.png" width="100%"> </p>
 
-nj3054@gmail.com  |  jain1018@purdue.edu
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-181717?style=for-the-badge&logo=github&logoColor=white)](https://neel-jain.github.io)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/neel-jain/neel-jain/raw/main/resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-Green?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/neel-jain/neel-jain/raw/main/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neel-jain-18590a184/)
 
+## About Me
 
 I'm an Electrical engineer with 5 years of experience designing PCB assemblies, cable harnesses, and test instrumentation for semiconductor capital equipment and avionics systems. I'm skilled in full system electrical design and validation, from schematic capture through bring-up and test. I'm also studying for my Master of Business Administration, expected May 2028! I'm passionate about all facets of electronic design, from circuits to cables and everything surrounding them!
 
-🎓 **Education**
+## Education
 
 | Degree | Institution | Year |
 |--------|-------------|------|
@@ -18,7 +17,9 @@ I'm an Electrical engineer with 5 years of experience designing PCB assemblies, 
 | M.Eng. Electrical Engineering | University of Louisville | May 2022 |
 | B.S. Electrical Engineering | University of Louisville | May 2021 |
 
-💡 **Technical Skills:**
+## Skills
+
+**Current Skills**
 
 ![PCBA Design](https://img.shields.io/badge/PCBA_Design-blue?style=flat-square)
 ![Cable Harness Design](https://img.shields.io/badge/Cable_Harness_Design-blue?style=flat-square)
@@ -34,19 +35,19 @@ I'm an Electrical engineer with 5 years of experience designing PCB assemblies, 
 ![C++](https://img.shields.io/badge/C%2B%2B-green?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-green?style=flat-square&logo=html5&logoColor=white)
 
-🌱 **Building Proficiencies:**
+**Building Proficiency**
 
 ![Signal Integrity](https://img.shields.io/badge/Signal_Integrity-blue?style=flat-square)
 ![EMI/EMC](https://img.shields.io/badge/EMI%2FEMC-green?style=flat-square)
 ![PCB Design](https://img.shields.io/badge/PCB_Design-orange?style=flat-square)
 ![Plasma Physics](https://img.shields.io/badge/Plasma_Physics-purple?style=flat-square)
 
-📚 **Current Coursework:**
+**Current Coursework**
 
 ![AI Analytics for Business](https://img.shields.io/badge/AI_Analytics_for_Business-purple?style=flat-square)
 ![Tech-Focused Business](https://img.shields.io/badge/Tech--Focused_Business-red?style=flat-square)
 
-## 🚀 Projects
+## Projects
 
 ### Streamlit Dashboard for Customer Retention 
 [![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/neel-jain/MGMT-59000-customer-retention-dashboard)<br>
@@ -70,3 +71,8 @@ Dashboard for analysis of Employee attrition at IBM. K-Means Segmentation based 
 
 **Skills:** K-Means Segmentation · Gradio · Hugging Face
 
+## Contact
+
+**Personal:** nj3054@gmail.com <br>
+**Work:** neel.jain@lamresearch.com <br>
+**University:** jain1018@purdue.edu
